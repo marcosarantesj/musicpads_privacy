@@ -1,6 +1,6 @@
 # Política de Privacidade – Music Pads
 
-**Data de vigência: 17 de julho de 2025**
+**Data de vigência: 25 de julho de 2025**
 
 ## 1. Sobre o app  
 Music Pads é um aplicativo que permite tocar pads contínuos para momentos de adoração na igreja, oferecendo:
