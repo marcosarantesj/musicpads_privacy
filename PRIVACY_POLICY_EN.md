@@ -18,7 +18,7 @@ Music Pads is an app designed for continuous pad playback during church worship,
 Music Pads **does not collect personally identifiable information** (e.g., name or email), except when users voluntarily contact support.
 
 ## 4. Payments  
-All Pro feature purchases are handled **exclusively through the App Store or Google Play Store**, linked to the user's account. The app **does not access, store, or collect any payment information**.
+All purchases (Pro version) are processed **by the store itself** and linked to your device account. The app **does not access, collect, or store payment information**.
 
 ## 5. Local Data Storage  
 - Backup and restore functionalities store app-related data locally.
