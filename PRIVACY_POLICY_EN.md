@@ -1,6 +1,6 @@
 # Privacy Policy – Music Pads
 
-**Effective Date: July 17, 2025**
+**Effective Date: July 25, 2025**
 
 ## 1. App Overview  
 Music Pads is an app designed for continuous pad playback during church worship, offering:
