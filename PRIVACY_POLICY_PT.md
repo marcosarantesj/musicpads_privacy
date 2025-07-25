@@ -18,7 +18,7 @@ Music Pads é um aplicativo que permite tocar pads contínuos para momentos de a
 O Music Pads **não coleta dados pessoais identificáveis** (como nome ou email), exceto se o usuário optar por entrar em contato diretamente com suporte.
 
 ## 4. Dados de pagamento  
-Todas as compras (versão Pro) são processadas **pela própria loja (Google Play ou App Store)** e vinculadas à conta do dispositivo. O app **não acessa, coleta ou armazena informações de pagamento**.
+Todas as compras (versão Pro) são processadas **pela própria loja** e vinculadas à conta do dispositivo. O app **não acessa, coleta ou armazena informações de pagamento**.
 
 ## 5. Funcionalidades que acessam dados locais  
 - Backup e restauração armazenam dados do app localmente.
