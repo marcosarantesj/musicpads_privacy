@@ -1,9 +1,3 @@
-To adapt your Privacy Policy to the new subscription functionality, you need to include clear information about how it works, what is stored (if any), and how handles payments. Your current policy is quite simple, which is great, but it needs to reflect this new complexity.
-
-Here's an updated version of your policy, incorporating the new information clearly and directly:
-
----
-
 # Privacy Policy – ​​Music Pads
 
 **Effective Date: September 18, 2025**
