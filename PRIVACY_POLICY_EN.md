@@ -1,40 +1,50 @@
-# Privacy Policy – Music Pads
+To adapt your Privacy Policy to the new subscription functionality, you need to include clear information about how it works, what is stored (if any), and how handles payments. Your current policy is quite simple, which is great, but it needs to reflect this new complexity.
 
-**Effective Date: July 25, 2025**
+Here's an updated version of your policy, incorporating the new information clearly and directly:
 
-## 1. App Overview  
-Music Pads is an app designed for continuous pad playback during church worship, offering:
-- Access to all pads;
-- Unlimited song creation;
-- Playlist creation and management;
-- Data backup and restore;
-- Priority support via suporte@arantesds.com.
+---
 
-## 2. Developer & Contact  
-**Developer:** Marcos Arantes Júnior.  
-**Contact email:** suporte@arantesds.com
+# Privacy Policy – ​​Music Pads
 
-## 3. Personal Data Collection  
-Music Pads **does not collect personally identifiable information** (e.g., name or email), except when users voluntarily contact support.
+**Effective Date: September 18, 2025**
 
-## 4. Payments  
-All purchases (Pro version) are processed **by the store itself** and linked to your device account. The app **does not access, collect, or store payment information**.
+## 1. About the App
+Music Pads is an app that allows you to play continuous pads for worship in church. The basic version of the app offers access to pads, playlist creation, and management.
 
-## 5. Local Data Storage  
-- Backup and restore functionalities store app-related data locally.
-- The app **does not access the device gallery or personal files**.
+With the **monthly subscription**, users have access to exclusive features, such as:
+* Importing custom continuous pads.
+* Automatic saving and access to imported pads.
+* Option to delete pads that are no longer needed.
 
-## 6. Data Security  
-We implement measures to protect your locally stored app data (settings, playlists), but are not liable for data loss caused by device failures.
+## 2. Responsible
+**Developer:** Marcos Arantes Júnior
+**Contact:** suporte@arantesds.com
 
-## 7. Data Sharing  
-We do **not share user data with third parties**.
+## 3. Collection of Personal Data
+Music Pads **does not collect personally identifiable data** (such as name or email address), unless the user chooses to contact us directly via support.
 
-## 8. Policy Updates  
-We may update this Privacy Policy at any time. Changes will be effective immediately upon posting, and the effective date will reflect the update.
+## 4. Payment Data
+All purchases and subscriptions (monthly and Pro version) are processed **directly by the official store** and linked to your device account. The app **does not access, collect, or store payment information**.
 
-## 9. User Rights  
+## 5. Features that access local data
+The app stores locally on your device:
+* User settings and playlists.
+* Continuous pads imported by the user through the subscription**.
+* Backup and restore data.
+
+We do not access your photo gallery or other files on your device.
+
+## 6. Security
+We implement security measures to protect data stored locally on your device. However, we are not responsible for data loss caused by device failure or accidental deletion.
+
+## 7. Data Sharing
+We do not share data with third parties.
+
+## 8. Policy Changes
+We may update this policy periodically to reflect new features or changes in the law. The new version will be effective immediately upon publication, and the effective date will be updated.
+
+## 9. User Rights
 Since we do not process personal data, rights such as access, deletion, portability, and correction **do not apply**.
 
-## 10. Contact Us  
-If you have any questions or concerns, please contact us at: suporte@arantesds.com
+## 10. Contact
+For questions or concerns about this policy, please contact: suporte@arantesds.com
