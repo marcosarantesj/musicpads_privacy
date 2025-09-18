@@ -1,40 +1,50 @@
+Para adequar sua Política de Privacidade à nova funcionalidade de assinatura, você precisa incluir informações claras sobre como ela funciona, o que é armazenado (se houver) e como a Apple lida com os pagamentos. A sua política atual é bem simples, o que é ótimo, mas precisa refletir essa nova complexidade.
+
+Aqui está uma versão atualizada da sua política, incorporando as novas informações de forma clara e direta:
+
+---
+
 # Política de Privacidade – Music Pads
 
-**Data de vigência: 25 de julho de 2025**
+**Data de vigência: 18/09/2025**
 
-## 1. Sobre o app  
-Music Pads é um aplicativo que permite tocar pads contínuos para momentos de adoração na igreja, oferecendo:
-- Acesso a todos os pads;
-- Criação ilimitada de músicas;
-- Criação e gerenciamento de playlists;
-- Backup e restauração de dados;
-- Suporte prioritário via suporte@arantesds.com.
+## 1. Sobre o app
+Music Pads é um aplicativo que permite tocar pads contínuos para momentos de adoração na igreja. A versão básica do app oferece acesso a pads, criação e gerenciamento de playlists.
 
-## 2. Responsável  
-**Desenvolvedor:** Marcos Arantes Júnior  
+Com a **assinatura mensal**, o usuário tem acesso a funcionalidades exclusivas, como:
+* Importação de pads contínuos personalizados.
+* Salvamento e acesso automático aos pads importados.
+* Opção de excluir pads que não são mais necessários.
+
+## 2. Responsável
+**Desenvolvedor:** Marcos Arantes Júnior
 **Contato:** suporte@arantesds.com
 
-## 3. Coleta de dados pessoais  
-O Music Pads **não coleta dados pessoais identificáveis** (como nome ou email), exceto se o usuário optar por entrar em contato diretamente com suporte.
+## 3. Coleta de dados pessoais
+O Music Pads **não coleta dados pessoais identificáveis** (como nome ou e-mail), exceto se o usuário optar por entrar em contato diretamente conosco via suporte.
 
-## 4. Dados de pagamento  
-Todas as compras (versão Pro) são processadas **pela própria loja** e vinculadas à conta do dispositivo. O app **não acessa, coleta ou armazena informações de pagamento**.
+## 4. Dados de pagamento
+Todas as compras e assinaturas (mensal e versão Pro) são processadas **diretamente pela loja oficial** e vinculadas à sua conta do dispositivo. O app **não acessa, coleta ou armazena informações de pagamento**.
 
-## 5. Funcionalidades que acessam dados locais  
-- Backup e restauração armazenam dados do app localmente.
-- Não acessamos sua galeria de fotos ou outros arquivos do dispositivo.
+## 5. Funcionalidades que acessam dados locais
+O app armazena localmente em seu dispositivo:
+* As configurações e playlists do usuário.
+* **Os pads contínuos importados pelo usuário através da assinatura**.
+* Dados de backup e restauração.
 
-## 6. Segurança  
-Implementamos medidas para proteger os dados locais do usuário (como configurações e playlists), mas não nos responsabilizamos por perda causada por falhas do dispositivo.
+Nós não acessamos sua galeria de fotos ou outros arquivos do dispositivo.
 
-## 7. Compartilhamento de dados  
+## 6. Segurança
+Implementamos medidas de segurança para proteger os dados armazenados localmente no seu dispositivo. No entanto, não nos responsabilizamos por perdas de dados causadas por falhas do dispositivo ou exclusão acidental.
+
+## 7. Compartilhamento de dados
 Não compartilhamos dados com terceiros.
 
-## 8. Alterações na política  
-Podemos atualizar esta política periodicamente. A nova versão entrará em vigor imediatamente após a publicação, e a data de vigência será atualizada.
+## 8. Alterações na política
+Podemos atualizar esta política periodicamente para refletir novas funcionalidades ou mudanças nas leis. A nova versão entrará em vigor imediatamente após a publicação, e a data de vigência será atualizada.
 
-## 9. Direitos dos usuários  
+## 9. Direitos dos usuários
 Como não tratamos dados pessoais, direitos como acesso, exclusão, portabilidade e correção **não se aplicam**.
 
-## 10. Contato  
+## 10. Contato
 Para perguntas ou dúvidas sobre esta política, entre em contato: suporte@arantesds.com
