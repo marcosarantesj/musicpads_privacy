@@ -1,9 +1,3 @@
-Para adequar sua Política de Privacidade à nova funcionalidade de assinatura, você precisa incluir informações claras sobre como ela funciona, o que é armazenado (se houver) e como a Apple lida com os pagamentos. A sua política atual é bem simples, o que é ótimo, mas precisa refletir essa nova complexidade.
-
-Aqui está uma versão atualizada da sua política, incorporando as novas informações de forma clara e direta:
-
----
-
 # Política de Privacidade – Music Pads
 
 **Data de vigência: 18/09/2025**
