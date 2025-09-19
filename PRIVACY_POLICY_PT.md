@@ -3,7 +3,7 @@
 **Data de vigência: 18/09/2025**
 
 ## 1. Sobre o app
-Music Pads é um aplicativo que permite tocar pads contínuos para momentos de adoração na igreja. A versão básica do app oferece acesso a pads, criação e gerenciamento de playlists.
+Music Pads é um aplicativo que permite tocar pads contínuos para momentos de adoração na igreja. A versão PRO do app oferece acesso a pads, criação e gerenciamento de playlists.
 
 Com a **assinatura mensal**, o usuário tem acesso a funcionalidades exclusivas, como:
 * Importação de pads contínuos personalizados.
