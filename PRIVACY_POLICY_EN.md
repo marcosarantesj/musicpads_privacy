@@ -3,7 +3,7 @@
 **Effective Date: September 18, 2025**
 
 ## 1. About the App
-Music Pads is an app that allows you to play continuous pads for worship in church. The basic version of the app offers access to pads, playlist creation, and management.
+Music Pads is an app that allows you to play continuous pads for worship in church. The PRO version of the app offers access to pads, playlist creation, and management.
 
 With the **monthly subscription**, users have access to exclusive features, such as:
 * Importing custom continuous pads.
